@@ -1,0 +1,10 @@
+{
+  "name": "Remix SPK learn - Interactive Class 12 Biology",
+  "description": "Interactive Biology learning platform for Class 12 Tamil Nadu Samacheer Kalvi Bio-Botany \u0026 Bio-Zoology with visual lesson player, interactive diagrams, quizzes, and multimodal AI tutor.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
